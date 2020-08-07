@@ -1,0 +1,195 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    background-color: #070000;
+    font-family: Oswald;
+    font-weight: 300;
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 27px;
+}
+ul {
+    list-style: none;
+}
+
+.Redes1 {
+    font-size: 19px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 40px;
+    height: 40px;
+    padding: 40px;
+}
+.Redes1 ul {
+    display: flex;
+}
+.Redes1 ul li {
+    padding: 20px;
+}
+.Redes1 ul li a:hover {
+    border-bottom: 4px solid white;
+    font-size: 50px;
+}
+.Redes1 ul li a{
+    padding: 4px;
+    font-size: 40px;
+}
+.Redes1 ul.Redes {
+    flex: 1;
+    margin-left: 20px;
+}
+.IMG2 {
+    width: 150px;
+    display: flex;
+    float: left;
+}
+h1 {
+    display: flex;
+    align-items: center;
+    padding: 40px 0;
+    flex: 1;
+    margin-left: 10px;
+}
+P {
+    font-weight: 500;
+    font-size: 27px;
+}
+h1 {
+    font-size: 47px;
+}
+h2 { 
+    font-size: 40px;
+}
+h3 {
+    font-size: 36px;
+}
+.FU {
+    color: #FF0000;
+}
+.OW {
+    color: #FF8000;
+}
+.COW {
+    color: #FFFF00;
+}
+.MA {
+    color: #80FF00;
+}
+.CS {
+    color: #00FF00;
+}
+.NPC {
+    color: #00FF80;
+}
+.SG {
+    color: #00FFFF;
+}
+.SUG {
+    color: #0080FF ;
+}
+.AG {
+    color: #0000FF;
+}
+.A {
+    color: #8000FF;
+}
+.MOD {
+    color: #FF00FF;
+}
+.AY {
+    color: #FF00FF;
+}
+.PS {
+    color: #FF0040;
+}
+.Staff-R {
+    background: #080808;
+    color: white;
+    font-size: 12px;
+    padding: 35px 0;
+}
+.Staff-C {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: center;
+}
+.Staff-C ul {
+    margin: 0 auto;
+}
+.CONT {
+    padding-top: 10px;
+    color: #ffffff;
+    width: 90%;
+    margin: auto;
+    border: unset white;
+}
+.STAFF {
+    padding-bottom: 50px;
+}
+.tienda {
+    background: #080808;
+    color: white;
+    font-size: 12px;
+    padding: 35px 20px;
+}
+.Tienda-C {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: center;
+}
+.Tienda-C ul {
+    margin: 0 auto;
+}
+.Vips {
+    color: #FFFF00;
+}
+.Mafias {
+    color: red;
+}
+.Terrorista {
+    color: #DF7401;
+}
+.Mercenario {
+    color: #610B0B ;
+}
+.STAFF {
+    padding: 0 47%;
+}
+.STAFF1 {
+    padding: 0 23%;
+}
+.IMG1 {
+    width: 60px;
+    margin-right: 5px;
+}
+.REDES {
+    padding: 20px;
+}
+.TC {
+    margin: 20px ;
+}
+.LTC {
+    margin: 30px;
+}
+.LTC li {
+    margin: 10px;
+}
+h4 {
+    font-size: 20px;
+}
+.ventajas p {
+    font-size: 20px;
+}
+.LTC li p {
+    font-size: 25px;
+}
