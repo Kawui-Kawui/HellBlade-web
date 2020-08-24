@@ -142,12 +142,22 @@ h3 {
 }
 .Tienda-C {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: center;
+}
+.Tienda-C2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 10px;
     align-items: flex-start;
     justify-content: center;
 }
 .Tienda-C ul {
+    margin: 0 auto;
+}
+.Tienda-C2 ul {
     margin: 0 auto;
 }
 .Vips {
@@ -186,6 +196,9 @@ h4 {
     font-size: 20px;
 }
 .ventajas p {
+    font-size: 20px;
+}
+.EXTRAS  {
     font-size: 20px;
 }
 .LTC li p {
