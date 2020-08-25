@@ -153,6 +153,7 @@ h3 {
     gap: 10px;
     align-items: flex-start;
     justify-content: center;
+    padding: 35px 20px;
 }
 .Tienda-C ul {
     margin: 0 auto;
@@ -215,4 +216,12 @@ h4 {
 }
 .Tienda-C ul li {
     margin-bottom: 20px;
+}
+h5 {
+    color: #ffffff;
+    font-size: 20px;
+    align-content: center;
+}
+.Perfil {
+    width: 40px;
 }
